@@ -16,8 +16,8 @@ This is a desktop application for managing inventory, built with Python and PySi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone <[repository_url](https://github.com/Jassu78/Inventory-Management.git)>
+    cd <Master>
     ```
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -36,7 +36,7 @@ This is a desktop application for managing inventory, built with Python and PySi
 
 1.  **Run the application:**
     ```bash
-    python your_main_file_name.py
+    python App.py
     ```
     (Replace `your_main_file_name.py` with the actual name of the Python file containing the `main()` function.)
 
@@ -57,7 +57,7 @@ The application uses an SQLite database named `inventory.db` with the following 
 
 ## Project Structure
 
-* `your_main_file_name.py`: (The provided code) Contains all the application logic, including UI setup and database interactions.
+* `App.py`: (The provided code) Contains all the application logic, including UI setup and database interactions.
 * `inventory.db`: The SQLite database file (created automatically on first run).
 * `product_images/`: Directory to store uploaded product images.
 
