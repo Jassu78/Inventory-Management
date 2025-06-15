@@ -16,8 +16,7 @@ This is a desktop application for managing inventory, built with Python and PySi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <[repository_url](https://github.com/Jassu78/Inventory-Management.git)>
-    cd <Master>
+    git clone https://github.com/Jassu78/Inventory-Management.git
     ```
 2.  **Create a virtual environment (recommended):**
     ```bash
