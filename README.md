@@ -38,7 +38,7 @@ This is a desktop application for managing inventory, built with Python and PySi
     ```bash
     python App.py
     ```
-    (Replace `your_main_file_name.py` with the actual name of the Python file containing the `main()` function.)
+    (Replace `App.py` with the actual name of the Python file containing the `main()` function.)
 
 2.  **Login:** Use the default credentials:
     * **Username:** `operator1` or `operator2`
